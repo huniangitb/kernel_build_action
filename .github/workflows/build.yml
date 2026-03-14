@@ -18,6 +18,7 @@ jobs:
           config: gki_defconfig
           arch: arm64
           aosp-clang: true
+          aosp-gcc: true
           android-version: 13
           aosp-clang-version: r383902
           anykernel3: true
