@@ -17,7 +17,6 @@ jobs:
           kernel-branch: android12-5.10-2025-09
           config: gki_defconfig
           arch: arm64
-          aosp-gcc: true
           aosp-clang: true
           android-version: 15
           aosp-clang-version: r522817
