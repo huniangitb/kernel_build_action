@@ -20,5 +20,5 @@ jobs:
           aosp-gcc: true
           
           android-version: 12
-          other-clang-url: https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/70a12c4fe88940ab2b0e6d763492dffa2f07e15a/clang-r547379.tar.gz
+          other-clang-url: https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/mirror-goog-llvm-r596125-release/clang-r584948b.tar.gz
           anykernel3: true
