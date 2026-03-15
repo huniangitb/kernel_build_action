@@ -17,6 +17,9 @@ jobs:
           config: gki_defconfig
           arch: arm64
           aosp-gcc: true
+          ccache: true
+          ksu: false
+          rekernel: false
           
           android-version: 12
           other-clang-url: https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/mirror-goog-llvm-r596125-release/clang-r584948b.tar.gz
